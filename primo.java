@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class primo {
+public class primo 
+{
     public static boolean esPrimo(int n) {
         if (n <= 1) 
             return false;
